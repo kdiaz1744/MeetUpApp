@@ -363,3 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 /API/appsettings.json
 /client/ssl/
+
+#Vs Studio Code cache and settings folder
+.vscode/
