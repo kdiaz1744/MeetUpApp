@@ -2,17 +2,18 @@ import { HttpClient } from '@angular/common/http';
 import { Component, inject, OnInit, signal } from '@angular/core';
 import { Nav } from '../layout/nav/nav';
 import { AccountService } from '../core/services/account-service';
-import { Home } from '../features/home/home';
 import { User } from '../types/user';
+import { Router, RouterOutlet } from '@angular/router';
 
 @Component({
-  imports: [Nav, Home],
+  imports: [Nav, RouterOutlet],
   selector: 'app-root',
   styleUrl: './app.css',
   templateUrl: './app.html',
 })
 export class App implements OnInit {
   private accountService = inject(AccountService);
+  protected router = inject(Router);
   private http = inject(HttpClient);
   protected title = 'MeetUp App';
   protected members = signal<User[]>([]);
