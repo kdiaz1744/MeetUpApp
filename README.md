@@ -19,6 +19,8 @@ The MeetUp App is my version of a kind of "dating app" where I could practice An
 ## Useful Sites
 - For practicing writing css => https://flexboxfroggy.com/
 - Free icons for the app => https://heroicons.com/
+- CSS plugin site => https://daisyui.com/
+- JSON web token debugger for testing => https://www.jwt.io/
 - 
 
 <!-- ## Installation
