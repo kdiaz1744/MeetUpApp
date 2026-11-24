@@ -21,7 +21,8 @@ The MeetUp App is my version of a kind of "dating app" where I could practice An
 - Free icons for the app => https://heroicons.com/
 - CSS plugin site => https://daisyui.com/
 - JSON web token debugger for testing => https://www.jwt.io/
-- 
+- Explanation of Middleware used for error handling => https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-10.0
+
 
 <!-- ## Installation
 1. Clone the repository: `git clone https://github.com/kdiaz1744/.git`
