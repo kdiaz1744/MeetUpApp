@@ -22,6 +22,8 @@ The MeetUp App is my version of a kind of "dating app" where I could practice An
 - CSS plugin site => https://daisyui.com/
 - JSON web token debugger for testing => https://www.jwt.io/
 - Explanation of Middleware used for error handling => https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-10.0
+- Angular browser extension DevTools => https://angular.dev/tools/devtools
+-
 
 
 <!-- ## Installation
